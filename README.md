@@ -39,37 +39,37 @@ We can also help you make minor changes (for example, creating a stacked variant
     <tr>
         <th>color, dark background</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-white.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-white.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-white.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-black.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-black.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-black.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-black.svg" width="75"></td>
     </tr>
 </table>
@@ -276,29 +276,29 @@ Impact projects are expected to participate actively in Cross Project Council pr
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/nodejs/nodejs-logo-color-dark_background.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/nodejs/nodejs-icon-color.png" width="75"></td>
         <td><img src="./projects/nodejs/nodejs-logo-color-dark_background.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/nodejs/nodejs-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./projects/nodejs/nodejs-logo-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/nodejs/nodejs-icon-color.png" width="75"></td>
         <td><img src="./projects/nodejs/nodejs-logo-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/nodejs/nodejs-icon-color.svg" width="75"></td>
     </tr>  
     <tr>
         <th>grayscale, dark background</th>
         <td><img src="./projects/nodejs/nodejs-logo-grayscale-dark_background.png" width="200"></td>
-         <td><img src="" width="95"></td>
-        <td><img src="" width="75"></td>
+         <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
         <td><img src="./projects/nodejs/nodejs-logo-grayscale-dark_background.svg" width="200"></td>
-           <td><img src="" width="95"></td>
-        <td><img src="" width="75"></td>
+           <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
     </tr>
 </table>
 
@@ -325,10 +325,10 @@ Impact projects are expected to participate actively in Cross Project Council pr
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/webpack/webpack-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/webpack/webpack-icon-color.png" width="75"></td>
         <td><img src="./projects/webpack/webpack-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/webpack/webpack-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -362,10 +362,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>grayscale</th>
         <td><img src="./projects/architect/architect-logo-horizontal-grayscale.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/architect/architect-icon-grayscale.png" width="75"></td>
         <td><img src="./projects/architect/architect-logo-horizontal-grayscale.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/architect/architect-icon-grayscale.svg" width="75"></td>
     </tr>  
 </table>
@@ -393,10 +393,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>light background</th>
         <td><img src="./projects/intern/intern-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/intern/intern-icon-color.png" width="75"></td>
         <td><img src="./projects/intern/intern-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/intern/intern-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -424,10 +424,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/mocha/mocha-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/mocha/mocha-icon-color.png" width="75"></td>
         <td><img src="./projects/mocha/mocha-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/mocha/mocha-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -454,10 +454,10 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/node_red/node_red-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/node_red/node_red-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/node_red/node_red-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/node_red/node_red-icon-color.svg" width="75"></td>
     </tr>  
@@ -485,11 +485,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/webdriverio/webdriverio-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/webdriverio/webdriverio-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -522,10 +522,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/eslint/eslint-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/eslint/eslint-icon-color.png" width="75"></td>
         <td><img src="./projects/eslint/eslint-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/eslint/eslint-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -552,11 +552,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/esprima/esprima-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/esprima/esprima-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -584,10 +584,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>black</th>
         <td><img src="./projects/express/express-logo-horizontal-black.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/express/express-icon-black.png" width="75"></td>
         <td><img src="./projects/express/express-logo-horizontal-black.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/express/express-icon-black.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -615,19 +615,19 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color-dark_background.png" width="75"></td>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color-dark_background.svg" width="75"></td>    </tr>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color.png" width="75"></td>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -654,10 +654,10 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/grunt/grunt-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/grunt/grunt-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/grunt/grunt-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/grunt/grunt-icon-color.svg" width="75"></td>    </tr>
     </tr>
@@ -685,11 +685,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/hospitalrun/hospitalrun-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/hospitalrun/hospitalrun-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -716,11 +716,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/interledgerjs/interledgerjs-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/interledgerjs/interledgerjs-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -747,11 +747,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jerryscript/jerryscript-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jerryscript/jerryscript-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -779,19 +779,19 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/libuv/libuv-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-color.svg" width="75"></td>    </tr>
     </tr>
     <tr>
         <th>grayscale</th>
         <td><img src="./projects/libuv/libuv-logo-horizontal-grayscale-wordmark.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-grayscale.png" width="75"></td>
         <td><img src="./projects/libuv/libuv-logo-horizontal-grayscale-wordmark.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-grayscale.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -818,11 +818,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/lodash/lodash-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/lodash/lodash-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -849,10 +849,10 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/marko/marko-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/marko/marko-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/marko/marko-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/marko/marko-icon-color.svg" width="75"></td>    </tr>
     </tr>
@@ -880,10 +880,10 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/messageformat/messageformat-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/messageformat/messageformat-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/messageformat/messageformat-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/messageformat/messageformat-icon-color.svg" width="75"></td>    </tr>
     </tr>
@@ -911,11 +911,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/moment/moment-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/moment/moment-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -942,11 +942,11 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/pep/pep-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/pep/pep-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -976,10 +976,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/qunit/qunit-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/qunit/qunit-icon-color.png" width="75"></td>
         <td><img src="./projects/qunit/qunit-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/qunit/qunit-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -1012,28 +1012,28 @@ The Foundation appreciates the contributions of these projects and their communi
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-color.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>grayscale</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-grayscale.png" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-grayscale.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-grayscale.svg" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-grayscale.svg" width="75"></td>
     </tr>  
     <tr>
         <th>white</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-white.png" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-white.png" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-white.svg" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-white.svg" width="75"></td>
     </tr>  
@@ -1064,19 +1064,19 @@ The Foundation appreciates the contributions of these projects and their communi
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/jquery_mobile/jquery_mobile-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_mobile/jquery_mobile-icon-color.png" width="75"></td>
         <td><img src="./projects/jquery_mobile/jquery_mobile-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_mobile/jquery_mobile-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./projects/jquery_mobile/jquery_mobile-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_mobile/jquery_mobile-icon-color.png" width="75"></td>
         <td><img src="./projects/jquery_mobile/jquery_mobile-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_mobile/jquery_mobile-icon-color.svg" width="75"></td>
     </tr>
 </table>
@@ -1106,19 +1106,19 @@ The Foundation appreciates the contributions of these projects and their communi
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/jquery_ui/jquery_ui-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_ui/jquery_ui-icon-color.png" width="75"></td>
         <td><img src="./projects/jquery_ui/jquery_ui-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_ui/jquery_ui-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./projects/jquery_ui/jquery_ui-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_ui/jquery_ui-icon-color.png" width="75"></td>
         <td><img src="./projects/jquery_ui/jquery_ui-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/jquery_ui/jquery_ui-icon-color.svg" width="75"></td>
     </tr>
 </table>
@@ -1145,12 +1145,12 @@ The Foundation appreciates the contributions of these projects and their communi
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/requirejs/requirejs-logo-stacked-color.png" width="95"></td>
-        <td><img src="" width="75"></td>
-        <td><img src="" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/requirejs/requirejs-logo-stacked-color.svg" width="95"></td>
-        <td><img src="" width="75"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
     </tr>  
 </table>
 
@@ -1177,19 +1177,19 @@ The Foundation appreciates the contributions of these projects and their communi
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/sizzle/sizzle-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/sizzle/sizzle-icon-color.png" width="75"></td>
         <td><img src="./projects/sizzle/sizzle-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/sizzle/sizzle-icon-color.svg" width="75"></td>
     </tr>  
     <tr>
         <th>color</th>
         <td><img src="./projects/sizzle/sizzle-logo-horizontal-color.png" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/sizzle/sizzle-icon-color.png" width="75"></td>
         <td><img src="./projects/sizzle/sizzle-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/sizzle/sizzle-icon-color.svg" width="75"></td>
     </tr>  
 </table>
