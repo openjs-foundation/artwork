@@ -23,12 +23,12 @@ We can also help you make minor changes (for example, creating a stacked variant
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -89,12 +89,12 @@ Impact projects are expected to participate actively in Cross Project Council pr
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -158,12 +158,12 @@ Impact projects are expected to participate actively in Cross Project Council pr
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -218,12 +218,12 @@ Impact projects are expected to participate actively in Cross Project Council pr
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -260,12 +260,12 @@ Impact projects are expected to participate actively in Cross Project Council pr
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -309,12 +309,12 @@ Impact projects are expected to participate actively in Cross Project Council pr
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -346,12 +346,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -377,12 +377,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -408,12 +408,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -439,12 +439,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -470,12 +470,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -501,12 +501,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -534,12 +534,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -565,12 +565,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -596,12 +596,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -627,12 +627,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -667,12 +667,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -698,12 +698,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -729,12 +729,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -760,12 +760,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -791,12 +791,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -831,12 +831,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -862,12 +862,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -893,12 +893,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -924,12 +924,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -955,12 +955,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -988,12 +988,12 @@ In order to support their active development, projects in the Growth stage have 
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -1025,12 +1025,12 @@ The Foundation appreciates the contributions of these projects and their communi
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -1074,12 +1074,12 @@ The Foundation appreciates the contributions of these projects and their communi
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -1107,12 +1107,12 @@ The Foundation appreciates the contributions of these projects and their communi
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -1149,12 +1149,12 @@ The Foundation appreciates the contributions of these projects and their communi
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -1189,12 +1189,12 @@ The Foundation appreciates the contributions of these projects and their communi
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
@@ -1220,12 +1220,12 @@ The Foundation appreciates the contributions of these projects and their communi
     	<th colspan="7"></th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th colspan="3">PNG</th>
         <th colspan="3">SVG</th>
     </tr>
     <tr>
-        <th width="10"></th>
+        <th width="100"></th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
