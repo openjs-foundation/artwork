@@ -16,7 +16,7 @@ We can also help you make minor changes (for example, creating a stacked variant
 
 ## OpenJS Foundation Logos
 
-* [OpenJS Foundation style guide](./openjs_foundation/OpenJS_Foundation-brand_guide.png)
+* [OpenJS Foundation style guide](./openjs_foundation/openjs_foundation-brand_guide.png)
 
 <table>
     <tr>
@@ -1260,15 +1260,18 @@ If you plan to contribute artwork, please help us keep things consistent and org
 * Plain `.svg` is the preferred file format.  Please start with this.  We can help you convert `.ai`, `.eps`, or (in some cases) `.pdf` files.
 * `.png` is preferred for non-vector images.  We can help you convert your `.svg` to `.png` if need be.  Please scale it to 500px in one dimension, at minimum.
 * To the greatest extent possible, please try to trim whitespace around the image.
-* Please follow the naming convention: `project_name/project_name-type-orientation-color-background.filetype`
-  * `project_name`: lower case, convert spaces to underscores
-  * `type`: `icon` or `logo`, where the logo generally includes the icon and some text.
-  * `orientation`: for logos, `horizontal` or `stacked`
-  * `color`: the color of the image itself, e.g., `color`, `black`, `white`, `grayscale`
-  *  `background`: optional, use `dark_background` for images with a color icon and white text
-* Pull requests welcomed!
 
--
+Please follow this naming convention: `project_name/project_name-type-orientation-color-background.filetype`
+
+* `project_name`: lower case, convert spaces to underscores
+* `type`: `icon` or `logo`, where the logo generally includes the icon and some text.
+* `orientation`: for logos, `horizontal` or `stacked`
+* `color`: the color of the image itself, e.g., `color`, `black`, `white`, `grayscale`
+*  `background`: optional, use `dark_background` for images with a color icon and white text
+
+Pull requests welcomed!
+
+---
 
 Use of any trademark or logo is subject to the trademark policy available at [https://trademark-policy.openjsf.org](https://trademark-policy.openjsf.org).  A list of the trademarks covered by this policy can be found at [https://trademark-list.openjsf.org](https://trademark-list.openjsf.org).
 
