@@ -391,7 +391,7 @@ In order to support their active development, projects in the Growth stage have 
         <th>icon</th>
     </tr>
     <tr>
-        <th>light background</th>
+        <th>color</th>
         <td><img src="./projects/intern/intern-logo-horizontal-color.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/intern/intern-icon-color.png" width="75"></td>
