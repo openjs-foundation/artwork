@@ -494,8 +494,36 @@ In order to support their active development, projects in the Growth stage have 
     </tr>  
 </table>
 
-
 ### webhint
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/webhint/webhint-logo-stacked-color.png" width="95"></td>
+        <td><img src="./projects/webhint/webhint-icon-color.png" width="75"></td>
+        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/webhint/webhint-logo-stacked-color.svg" width="95"></td>
+        <td><img src="./projects/webhint/webhint-icon-color.svg" width="75"></td>
+    </tr>  
+</table>
 
 ## At-Large Projects
 
@@ -1036,6 +1064,37 @@ The Foundation appreciates the contributions of these projects and their communi
         <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/chassis/chassis-logo-stacked-white.svg" width="95"></td>
         <td><img src="./projects/chassis/chassis-icon-white.svg" width="75"></td>
+    </tr>  
+</table>
+
+### Jed
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>grayscale</th>
+        <td><img src="./projects/jed/jed-logo-horizontal-grayscale.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
+        <td><img src="./projects/jed/jed-logo-horizontal-grayscale.svg" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
     </tr>  
 </table>
 
