@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 500 434.52915"
+   height="434.52914"
+   width="500"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,490.92613)"
+     id="g10"><path
+       d="M 328.8857,368.19461 H 42.192447 C 19.426013,368.19461 0,348.23112 0,325.48356 v -9.31031 -50.69994 -40.56836 C 0,124.0641 85.487852,42.297742 187.51453,42.297742 c 102.02184,0 187.48548,81.766358 187.48548,182.607208 v 40.56836 50.69994 9.31031 c 0,22.74756 -23.34254,42.71105 -46.11431,42.71105"
+       style="fill:#f89c15;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69185638"
+       id="path40" /><path
+       d="m 64.415636,222.51873 c 0,-67.26713 54.094524,-120.92682 122.155894,-120.92682 68.06414,0 122.18045,54.49753 122.18045,122.66959 h -61.59735 c 0,-34.08498 -25.17665,-61.76685 -59.18555,-61.76685 -34.04971,0 -59.18347,26.39571 -59.18347,60.02408 v 58.55594 H 64.415636 v -58.55594"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69185638"
+       id="path42" /><path
+       d="m 64.415636,223.84016 c 0,-67.25051 54.094524,-121.58614 122.155894,-121.58614 68.06414,0 122.18045,53.83542 122.18045,122.00748 h -61.59735 c 0,-34.08498 -25.17665,-61.10475 -59.18555,-61.10475 -34.04971,0 -59.18347,27.0772 -59.18347,60.68341 v 57.23451 H 64.415636 v -57.23451"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69185638"
+       id="path44" /><path
+       d="m 262.54358,318.23775 -14.37815,-58.8756 59.57853,-15.20701 15.40696,58.8673 -60.60734,15.21531"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69185638"
+       id="path46" /></g></svg>
