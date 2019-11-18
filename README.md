@@ -39,37 +39,37 @@ We can also help you make minor changes (for example, creating a stacked variant
     <tr>
         <th>color, dark background</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-color-dark_background.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-color-dark_background.svg" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-color.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-color.svg" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-white.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-white.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-white.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-white.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-white.svg" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-black.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-black.png" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-black.png" width="75"></td>
         <td><img src="./openjs_foundation/openjs_foundation-logo-horizontal-black.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./openjs_foundation/openjs_foundation-logo-stacked-black.svg" width="95"></td>
         <td><img src="./openjs_foundation/openjs_foundation-icon-black.svg" width="75"></td>
     </tr>
 </table>
