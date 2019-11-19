@@ -561,10 +561,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/eslint/eslint-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/eslint/eslint-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/eslint/eslint-icon-color.png" width="75"></td>
         <td><img src="./projects/eslint/eslint-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/eslint/eslint-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/eslint/eslint-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -654,19 +654,19 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color, dark background</th>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color-dark_background.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/globalize/globalize-logo-stacked-color-dark_background.png" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color-dark_background.png" width="75"></td>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color-dark_background.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/globalize/globalize-logo-stacked-color-dark_background.svg" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color-dark_background.svg" width="75"></td>    </tr>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/globalize/globalize-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color.png" width="75"></td>
         <td><img src="./projects/globalize/globalize-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/globalize/globalize-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/globalize/globalize-icon-color.svg" width="75"></td>    </tr>
     </tr>
 </table>
@@ -1013,14 +1013,23 @@ In order to support their active development, projects in the Growth stage have 
         <th>icon</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="./projects/qunit/qunit-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <th>color, dark background</th>
+        <td><img src="./projects/qunit/qunit-logo-horizontal-color-dark_background.png" width="200"></td>
+        <td><img src="./projects/qunit/qunit-logo-stacked-color-dark_background.png" width="95"></td>
         <td><img src="./projects/qunit/qunit-icon-color.png" width="75"></td>
-        <td><img src="./projects/qunit/qunit-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/qunit/qunit-logo-horizontal-color-dark_background.svg" width="200"></td>
+        <td><img src="./projects/qunit/qunit-logo-stacked-color-dark_background.svg" width="95"></td>
         <td><img src="./projects/qunit/qunit-icon-color.svg" width="75"></td>
     </tr>  
+    <tr>
+        <th>color</th>
+        <td><img src="./projects/qunit/qunit-logo-horizontal-color.png" width="200"></td>
+        <td><img src="./projects/qunit/qunit-logo-stacked-color.png" width="95"></td>
+        <td><img src="./projects/qunit/qunit-icon-color.png" width="75"></td>
+        <td><img src="./projects/qunit/qunit-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./projects/qunit/qunit-logo-stacked-color.svg" width="95"></td>
+        <td><img src="./projects/qunit/qunit-icon-color.svg" width="75"></td>
+    </tr>
 </table>
 
 ## Emeritus Projects
