@@ -324,13 +324,22 @@ Impact projects are expected to participate actively in Cross Project Council pr
     </tr>
     <tr>
         <th>color, dark background</th>
+        <td><img src="./projects/webpack/webpack-logo-horizontal-color-dark_background.png" width="200"></td>
+        <td><img src="./projects/webpack/webpack-logo-stacked-color-dark_background.png" width="95"></td>
+        <td><img src="./projects/webpack/webpack-icon-color.png" width="75"></td>
+        <td><img src="./projects/webpack/webpack-logo-horizontal-color-dark_background.svg" width="200"></td>
+        <td><img src="./projects/webpack/webpack-logo-stacked-color-dark_background.svg" width="95"></td>
+        <td><img src="./projects/webpack/webpack-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color</th>
         <td><img src="./projects/webpack/webpack-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/webpack/webpack-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/webpack/webpack-icon-color.png" width="75"></td>
         <td><img src="./projects/webpack/webpack-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/webpack/webpack-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/webpack/webpack-icon-color.svg" width="75"></td>
-    </tr>  
+    </tr>
 </table>
 
 ## Growth Projects
@@ -362,10 +371,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>grayscale</th>
         <td><img src="./projects/architect/architect-logo-horizontal-grayscale.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/architect/architect-logo-stacked-grayscale.png" width="95"></td>
         <td><img src="./projects/architect/architect-icon-grayscale.png" width="75"></td>
         <td><img src="./projects/architect/architect-logo-horizontal-grayscale.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/architect/architect-logo-stacked-grayscale.svg" width="95"></td>
         <td><img src="./projects/architect/architect-icon-grayscale.svg" width="75"></td>
     </tr>  
 </table>
@@ -393,10 +402,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/intern/intern-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/intern/intern-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/intern/intern-icon-color.png" width="75"></td>
         <td><img src="./projects/intern/intern-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/intern/intern-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/intern/intern-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -424,10 +433,10 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/mocha/mocha-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/mocha/mocha-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/mocha/mocha-icon-color.png" width="75"></td>
         <td><img src="./projects/mocha/mocha-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/mocha/mocha-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/mocha/mocha-icon-color.svg" width="75"></td>
     </tr>  
 </table>
@@ -495,6 +504,8 @@ In order to support their active development, projects in the Growth stage have 
 </table>
 
 ### webhint
+
+* [webhint artwork repo](https://github.com/webhintio/artwork)
 
 <table>
     <tr>
