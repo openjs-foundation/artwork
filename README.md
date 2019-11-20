@@ -1,22 +1,22 @@
 # OpenJS Foundation Artwork and Logos
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
+_Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables._
 
 ## About this artwork
 
-This repo hosts artwork for the [OpenJS Foundation](https://openjsf.org) and its [hosted projects](https://openjsf.org/projects).  Before you use this artwork, please be aware that it is subject to the [Trademark Policy](https://trademark-policy.openjsf.org) of the OpenJS Foundation.
+This repo hosts artwork for the [OpenJS Foundation](https://openjsf.org) and its [hosted projects](https://openjsf.org/projects). Before you use this artwork, please be aware that it is subject to the [Trademark Policy](https://trademark-policy.openjsf.org) of the OpenJS Foundation.
 
 You should take the time to read and understand the [Trademark Policy](https://trademark-policy.openjsf.org), as it will help you to understand the situations in which you can use the marks without asking, and when you need to ask for permission.
 
-At a high level, these marks have been created to refer to open source projects and organizations.  The [Trademark Policy](https://trademark-policy.openjsf.org) (as adopted by the [OpenJS Foundation Board of Directors](https://openjsf.org/about/governance)) is designed to strike a balance between enabling project communities to use them and protecting their value.  For a list of marks covered by the [Trademark Policy](https://trademark-policy.openjsf.org), please see the [Trademark List](https://trademark-list.openjsf.org).  If you have questions, please reach out to [trademark@openjsf.org](mailto:trademark@openjsf.org).
+At a high level, these marks have been created to refer to open source projects and organizations. The [Trademark Policy](https://trademark-policy.openjsf.org) (as adopted by the [OpenJS Foundation Board of Directors](https://openjsf.org/about/governance)) is designed to strike a balance between enabling project communities to use them and protecting their value. For a list of marks covered by the [Trademark Policy](https://trademark-policy.openjsf.org), please see the [Trademark List](https://trademark-list.openjsf.org). If you have questions, please reach out to [trademark@openjsf.org](mailto:trademark@openjsf.org).
 
-Finally, we recognize that project artwork may change over time, and many projects maintain their artwork in their source repos.  The goal of this repo is to mirror those assets in a single place.  If you have a vector version of your project's artwork (.svg, .eps, .ai), please submit a PR to add it to the gallery.  
+Finally, we recognize that project artwork may change over time, and many projects maintain their artwork in their source repos. The goal of this repo is to mirror those assets in a single place. If you have a vector version of your project's artwork (.svg, .eps, .ai), please submit a PR to add it to the gallery.
 
-We can also help you make minor changes (for example, creating a stacked variant of your logo, converting to monochrome, or extracting an icon).  For help with this, please reach out to [operations@openjsf.org](mailto:operations@openjsf.org).
+We can also help you make minor changes (for example, creating a stacked variant of your logo, converting to monochrome, or extracting an icon). For help with this, please reach out to [operations@openjsf.org](mailto:operations@openjsf.org).
 
 ## OpenJS Foundation Logos
 
-* [OpenJS Foundation style guide](./openjs_foundation/openjs_foundation-brand_guide.png)
+- [OpenJS Foundation style guide](./openjs_foundation/openjs_foundation-brand_guide.png)
 
 <table>
     <tr>
@@ -82,7 +82,7 @@ Impact projects are expected to participate actively in Cross Project Council pr
 
 ### Appium
 
-* [Appium Style Guide](./projects/appium/appium_graphic_standards-v8.pdf)
+- [Appium Style Guide](./projects/appium/appium_graphic_standards-v8.pdf)
 
 <table>
     <tr>
@@ -151,7 +151,7 @@ Impact projects are expected to participate actively in Cross Project Council pr
 
 ### Dojo
 
-* [Dojo color study](./projects/dojo/other/dojo-logo.ai)
+- [Dojo color study](./projects/dojo/other/dojo-logo.ai)
 
 <table>
     <tr>
@@ -211,7 +211,7 @@ Impact projects are expected to participate actively in Cross Project Council pr
 
 ### jQuery
 
-* [jQuery color study](./projects/jquery/other/jQuery-Color_Study.ai)
+- [jQuery color study](./projects/jquery/other/jQuery-Color_Study.ai)
 
 <table>
     <tr>
@@ -253,7 +253,7 @@ Impact projects are expected to participate actively in Cross Project Council pr
 
 ### Node.js
 
-* [Pantone color versions](./projects/nodejs/other/nodejs-pantone.zip)
+- [Pantone color versions](./projects/nodejs/other/nodejs-pantone.zip)
 
 <table>
     <tr>
@@ -505,7 +505,7 @@ In order to support their active development, projects in the Growth stage have 
 
 ### webhint
 
-* [webhint artwork repo](https://github.com/webhintio/artwork)
+- [webhint artwork repo](https://github.com/webhintio/artwork)
 
 <table>
     <tr>
@@ -723,19 +723,19 @@ In order to support their active development, projects in the Growth stage have 
         <th>icon</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color.png" width="200"></td>
+        <th>white</th>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-white.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-icon-color.png" width="75"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-white.png" width="75"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-white.svg" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-icon-color.svg" width="75"></td>    </tr>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-white.svg" width="75"></td>    </tr>
     </tr>
      <tr>
-        <th>color, dark background</th>
-        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color-dark_background.png" width="200"></td>
+        <th>dark</th>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-dark.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-icon-color-dark_background.png" width="75"></td>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>
         <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/no_artwork_available.png" width="75"></td>    </tr>
@@ -1001,7 +1001,7 @@ In order to support their active development, projects in the Growth stage have 
 
 ### QUnit
 
-* [QUnit color study](./projects/qunit/other/qunit-color_study.ai)
+- [QUnit color study](./projects/qunit/other/qunit-color_study.ai)
 
 <table>
     <tr>
@@ -1129,7 +1129,7 @@ The Foundation appreciates the contributions of these projects and their communi
 
 ### jQuery Mobile
 
-* [jQuery Mobile color study](./projects/jquery_mobile/other/jquery_mobile-color_study.ai)
+- [jQuery Mobile color study](./projects/jquery_mobile/other/jquery_mobile-color_study.ai)
 
 <table>
     <tr>
@@ -1171,7 +1171,7 @@ The Foundation appreciates the contributions of these projects and their communi
 
 ### jQuery UI
 
-* [jQuery UI color study](./projects/jquery_ui/other/jquery_ui-color_study.ai)
+- [jQuery UI color study](./projects/jquery_ui/other/jquery_ui-color_study.ai)
 
 <table>
     <tr>
@@ -1286,22 +1286,22 @@ The Foundation appreciates the contributions of these projects and their communi
 
 If you plan to contribute artwork, please help us keep things consistent and organized by following these basic guidelines:
 
-* Plain `.svg` is the preferred file format.  Please start with this.  We can help you convert `.ai`, `.eps`, or (in some cases) `.pdf` files.
-* `.png` is preferred for non-vector images.  We can help you convert your `.svg` to `.png` if need be.  Please scale it to 500px in one dimension, at minimum.
-* To the greatest extent possible, please try to trim whitespace around the image.
+- Plain `.svg` is the preferred file format. Please start with this. We can help you convert `.ai`, `.eps`, or (in some cases) `.pdf` files.
+- `.png` is preferred for non-vector images. We can help you convert your `.svg` to `.png` if need be. Please scale it to 500px in one dimension, at minimum.
+- To the greatest extent possible, please try to trim whitespace around the image.
 
 Please follow this naming convention: `project_name/project_name-type-orientation-color-background.filetype`
 
-* `project_name`: lower case, convert spaces to underscores
-* `type`: `icon` or `logo`, where the logo generally includes the icon and some text.
-* `orientation`: for logos, `horizontal` or `stacked`
-* `color`: the color of the image itself, e.g., `color`, `black`, `white`, `grayscale`
-*  `background`: optional, use `dark_background` for images with a color icon and white text
+- `project_name`: lower case, convert spaces to underscores
+- `type`: `icon` or `logo`, where the logo generally includes the icon and some text.
+- `orientation`: for logos, `horizontal` or `stacked`
+- `color`: the color of the image itself, e.g., `color`, `black`, `white`, `grayscale`
+- `background`: optional, use `dark_background` for images with a color icon and white text
 
 Pull requests welcomed!
 
 ---
 
-Use of any trademark or logo is subject to the trademark policy available at [https://trademark-policy.openjsf.org](https://trademark-policy.openjsf.org).  A list of the trademarks covered by this policy can be found at [https://trademark-list.openjsf.org](https://trademark-list.openjsf.org).
+Use of any trademark or logo is subject to the trademark policy available at [https://trademark-policy.openjsf.org](https://trademark-policy.openjsf.org). A list of the trademarks covered by this policy can be found at [https://trademark-list.openjsf.org](https://trademark-list.openjsf.org).
 
 Questions? Please email [trademark@openjsf.org](mailto:trademark@openjsf.org).
