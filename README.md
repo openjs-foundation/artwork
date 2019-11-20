@@ -723,22 +723,22 @@ In order to support their active development, projects in the Growth stage have 
         <th>icon</th>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-white.png" width="200"></td>
+        <th>color, dark background</th>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color-dark_background.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-icon-white.png" width="75"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-color-dark_background.png" width="75"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color-dark_background.svg" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-icon-white.svg" width="75"></td>    </tr>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-color-dark_background.svg" width="75"></td>    </tr>
     </tr>
      <tr>
-        <th>dark</th>
-        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-dark.png" width="200"></td>
+        <th>color</th>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/no_artwork_available.png" width="75"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-color-dark_background.png" width="75"></td>
         <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/no_artwork_available.png" width="75"></td>    </tr>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-color-dark_background.svg" width="75"></td>    </tr>
     </tr>
 </table>
 
