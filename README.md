@@ -724,12 +724,12 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="./projects/no_artwork_available.png" width="200"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/hospitalrun/hospitalrun-icon-color.png" width="75"></td>
         <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
-        <td><img src="./projects/hospitalrun/hospitalrun-icon-color.svg" width="75"></td>    </tr>
+        <td><img src="./projects/no_artwork_available.png" width="75"></td>    </tr>
     </tr>
 </table>
 
