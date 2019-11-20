@@ -727,6 +727,15 @@ In order to support their active development, projects in the Growth stage have 
         <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/hospitalrun/hospitalrun-icon-color.png" width="75"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-color.svg" width="75"></td>    </tr>
+    </tr>
+     <tr>
+        <th>color, dark background</th>
+        <td><img src="./projects/hospitalrun/hospitalrun-logo-horizontal-color-dark_background.png" width="200"></td>
+        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/hospitalrun/hospitalrun-icon-color-dark_background.png" width="75"></td>
         <td><img src="./projects/no_artwork_available.png" width="200"></td>
         <td><img src="./projects/no_artwork_available.png" width="95"></td>
         <td><img src="./projects/no_artwork_available.png" width="75"></td>    </tr>
