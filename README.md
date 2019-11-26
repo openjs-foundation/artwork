@@ -704,6 +704,8 @@ In order to support their active development, projects in the Growth stage have 
 
 ### HospitalRun
 
+- [HospitalRun artwork repo](https://github.com/HospitalRun/design)
+
 <table>
     <tr>
     	<th colspan="7"></th>
