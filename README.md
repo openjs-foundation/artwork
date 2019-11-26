@@ -829,19 +829,19 @@ In order to support their active development, projects in the Growth stage have 
     <tr>
         <th>color</th>
         <td><img src="./projects/libuv/libuv-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/libuv/libuv-logo-stacked-color.png" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-color.png" width="75"></td>
-        <td><img src="./projects/no_artwork_available.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/libuv/libuv-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./projects/libuv/libuv-logo-stacked-color.svg" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-color.svg" width="75"></td>    </tr>
     </tr>
     <tr>
         <th>grayscale</th>
-        <td><img src="./projects/libuv/libuv-logo-horizontal-grayscale-wordmark.png" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/libuv/libuv-logo-horizontal-grayscale.png" width="200"></td>
+        <td><img src="./projects/libuv/libuv-logo-stacked-grayscale.png" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-grayscale.png" width="75"></td>
-        <td><img src="./projects/libuv/libuv-logo-horizontal-grayscale-wordmark.svg" width="200"></td>
-        <td><img src="./projects/no_artwork_available.png" width="95"></td>
+        <td><img src="./projects/libuv/libuv-logo-horizontal-grayscale.svg" width="200"></td>
+        <td><img src="./projects/libuv/libuv-logo-stacked-grayscale.svg" width="95"></td>
         <td><img src="./projects/libuv/libuv-icon-grayscale.svg" width="75"></td>    </tr>
     </tr>
 </table>
