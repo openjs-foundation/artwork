@@ -465,15 +465,6 @@ In order to support their active development, projects in the Growth stage have 
         <th>icon</th>
     </tr>
     <tr>
-        <th>grayscale, light background</th>
-        <td><img src="./projects/fastify/fastify-logo-horizontal-dark.png" width="200"></td>
-        <td><img src="./projects/fastify/fastify-logo-stacked-dark.png" width="95"></td>
-        <td><img src="./projects/fastify/fastify-icon-dark.png" width="75"></td>
-        <td><img src="./projects/fastify/fastify-logo-horizontal-dark.svg" width="200"></td>
-        <td><img src="./projects/fastify/fastify-logo-stacked-dark.svg" width="95"></td>
-        <td><img src="./projects/fastify/fastify-icon-dark.svg" width="75"></td>
-    </tr>  
-    <tr>
         <th>grayscale, dark background</th>
         <td><img src="./projects/fastify/fastify-logo-horizontal-light.png" width="200"></td>
         <td><img src="./projects/fastify/fastify-logo-stacked-light.png" width="95"></td>
@@ -481,7 +472,16 @@ In order to support their active development, projects in the Growth stage have 
         <td><img src="./projects/fastify/fastify-logo-horizontal-light.svg" width="200"></td>
         <td><img src="./projects/fastify/fastify-logo-stacked-light.svg" width="95"></td>
         <td><img src="./projects/fastify/fastify-icon-light.svg" width="75"></td>
-    </tr>  
+    </tr>
+        <tr>
+        <th>grayscale, light background</th>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-dark.png" width="200"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-dark.png" width="95"></td>
+        <td><img src="./projects/fastify/fastify-icon-dark.png" width="75"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-dark.svg" width="200"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-dark.svg" width="95"></td>
+        <td><img src="./projects/fastify/fastify-icon-dark.svg" width="75"></td>
+    </tr>
 </table>
 
 ### Intern
