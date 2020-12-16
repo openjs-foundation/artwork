@@ -466,21 +466,21 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
     <tr>
         <th>grayscale, dark background</th>
-        <td><img src="./projects/fastify/fastify-logo-horizontal-light.png" width="200"></td>
-        <td><img src="./projects/fastify/fastify-logo-stacked-light.png" width="95"></td>
-        <td><img src="./projects/fastify/fastify-icon-light.png" width="75"></td>
-        <td><img src="./projects/fastify/fastify-logo-horizontal-light.svg" width="200"></td>
-        <td><img src="./projects/fastify/fastify-logo-stacked-light.svg" width="95"></td>
-        <td><img src="./projects/fastify/fastify-icon-light.svg" width="75"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-dark_background.png" width="200"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-dark_background.png" width="95"></td>
+        <td><img src="./projects/fastify/fastify-icon-dark_background.png" width="75"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-dark_background.svg" width="200"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-dark_background.svg" width="95"></td>
+        <td><img src="./projects/fastify/fastify-icon-dark_background.svg" width="75"></td>
     </tr>
         <tr>
         <th>grayscale, light background</th>
-        <td><img src="./projects/fastify/fastify-logo-horizontal-dark.png" width="200"></td>
-        <td><img src="./projects/fastify/fastify-logo-stacked-dark.png" width="95"></td>
-        <td><img src="./projects/fastify/fastify-icon-dark.png" width="75"></td>
-        <td><img src="./projects/fastify/fastify-logo-horizontal-dark.svg" width="200"></td>
-        <td><img src="./projects/fastify/fastify-logo-stacked-dark.svg" width="95"></td>
-        <td><img src="./projects/fastify/fastify-icon-dark.svg" width="75"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal.png" width="200"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked.png" width="95"></td>
+        <td><img src="./projects/fastify/fastify-icon.png" width="75"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal.svg" width="200"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked.svg" width="95"></td>
+        <td><img src="./projects/fastify/fastify-icon.svg" width="75"></td>
     </tr>
 </table>
 
