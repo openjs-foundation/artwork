@@ -369,6 +369,8 @@ Impact projects are expected to participate actively in Cross Project Council pr
 
 ### webpack
 
+* [Project artwork repo](https://github.com/webpack/media)
+
 <table>
     <tr>
     	<th colspan="7"></th>
@@ -413,6 +415,58 @@ Growth projects have indicated they are interested in becoming Impact projects, 
 
 In order to support their active development, projects in the Growth stage have access to a higher level marketing and other resources, which are agreed upon and reviewed by the CPC on an annual basis.
 
+### AMP
+
+* [Style guide](https://amp.dev/static/files/brand-material/AMP_Mini_Styleguide.pdf)
+* [Project artwork](https://amp.dev/static/files/brand-material/AMP_Logo_Rebrush.zip)
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>blue</th>
+        <td><img src="./projects/amp/amp-logo-blue.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-blue.png"></td>
+        <td><img src="./projects/amp/amp-logo-blue.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-blue.svg"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./projects/amp/amp-logo-black.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-black.png"></td>
+        <td><img src="./projects/amp/amp-logo-black.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-black.svg"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/amp/amp-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-white-dark_background.png"></td>
+        <td><img src="./projects/amp/amp-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-white-dark_background.svg"></td>
+    </tr>
+</table>
+
 ### Architect
 
 <table>
@@ -442,6 +496,48 @@ In order to support their active development, projects in the Growth stage have 
         <td><img src="./projects/architect/architect-logo-stacked-grayscale.svg" width="95"></td>
         <td><img src="./projects/architect/architect-icon-grayscale.svg" width="75"></td>
     </tr>  
+</table>
+
+### Fastify
+
+* [Project artwork repo](https://github.com/fastify/graphics)
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-white-dark_background.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-white-dark_background.png"></td>
+        <td><img src="./projects/fastify/fastify-icon-white-dark_background.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-white-dark_background.svg"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-white-dark_background.svg"></td>
+        <td><img src="./projects/fastify/fastify-icon-white-dark_background.svg"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-black.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-black.png"></td>
+        <td><img src="./projects/fastify/fastify-icon-black.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-black.svg"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-black.svg"></td>
+        <td><img src="./projects/fastify/fastify-icon-black.svg"></td>    </tr>
+
 </table>
 
 ### Intern
@@ -1107,6 +1203,151 @@ In order to support their active development, projects in the Growth stage have 
         <td><img src="./projects/qunit/qunit-icon-color.svg" width="75"></td>
     </tr>
 </table>
+
+## Incubating Projects
+
+Projects may apply to be accepted into the OpenJS Foundation by following the [Project Proposal Process](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#ii-project-proposal-process). The following projects have been accepted for incubation by the [Cross Project Council](https://github.com/openjs-foundation/cross-project-council).
+
+### Ajv
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./projects/ajv/ajv-logo-color.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/ajv/ajv-logo-color.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./projects/ajv/ajv-logo-black.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/ajv/ajv-logo-black.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/ajv/ajv-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/ajv/ajv-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+### NativeScript
+
+* [Project artwork repo](https://github.com/NativeScript/artwork)
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>color, dark background</th>
+        <td><img src="./projects/nativescript/nativescript-logo-color-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color-dark_background.png"></td>
+        <td><img src="./projects/nativescript/nativescript-logo-color-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color-dark_background.svg"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./projects/nativescript/nativescript-logo-color.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color.png"></td>
+        <td><img src="./projects/nativescript/nativescript-logo-color.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color.svg"></td>
+    </tr>
+    <tr>
+        <th>white, dark background</th>
+        <td><img src="./projects/nativescript/nativescript-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-white-dark_background.png"></td>
+        <td><img src="./projects/nativescript/nativescript-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-white-dark_background.svg"></td>
+    </tr>
+</table>
+
+### nvm
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/nvm/nvm-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nvm/nvm-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <th>grayscale</th>
+        <td><img src="./projects/nvm/nvm-logo-grayscale.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nvm/nvm-logo-grayscale.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
 
 ## Emeritus Projects
 
