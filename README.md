@@ -1157,6 +1157,61 @@ In order to support their active development, projects in the Growth stage have 
     </tr>
 </table>
 
+## Incubating Projects
+
+Projects may apply to be accepted into the OpenJS Foundation by following the [Project Proposal Process](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#ii-project-proposal-process). The following projects have been accepted for incubation by the [Cross Project Council](https://github.com/openjs-foundation/cross-project-council).
+
+### Ajv
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./projects/ajv/ajv-logo-color.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/ajv/ajv-logo-color.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./projects/ajv/ajv-logo-black.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/ajv/ajv-logo-black.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/ajv/ajv-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/ajv/ajv-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+
+
 ## Emeritus Projects
 
 Emeritus projects are those which the maintainers feel have reached or are nearing end-of-life. Emeritus projects have contributed to the ecosystem, but are not necessarily recommended for modern development as there may be more actively maintained choices.
