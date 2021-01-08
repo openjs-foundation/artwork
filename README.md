@@ -1250,6 +1250,57 @@ Projects may apply to be accepted into the OpenJS Foundation by following the [P
     </tr>
 </table>
 
+### NativeScript
+
+* [Project artwork repo](https://github.com/NativeScript/artwork)
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>color, dark background</th>
+        <td><img src="./projects/nativescript/nativescript-logo-color-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color-dark_background.png"></td>
+        <td><img src="./projects/nativescript/nativescript-logo-color-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color-dark_background.svg"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./projects/nativescript/nativescript-logo-color.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color.png"></td>
+        <td><img src="./projects/nativescript/nativescript-logo-color.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-color.svg"></td>
+    </tr>
+    <tr>
+        <th>white, dark background</th>
+        <td><img src="./projects/nativescript/nativescript-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-white-dark_background.png"></td>
+        <td><img src="./projects/nativescript/nativescript-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/nativescript/nativescript-icon-white-dark_background.svg"></td>
+    </tr>
+</table>
+
 ### nvm
 
 <table>
