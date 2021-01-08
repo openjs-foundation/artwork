@@ -369,6 +369,8 @@ Impact projects are expected to participate actively in Cross Project Council pr
 
 ### webpack
 
+* [Project artwork repo](https://github.com/webpack/media)
+
 <table>
     <tr>
     	<th colspan="7"></th>
@@ -414,6 +416,9 @@ Growth projects have indicated they are interested in becoming Impact projects, 
 In order to support their active development, projects in the Growth stage have access to a higher level marketing and other resources, which are agreed upon and reviewed by the CPC on an annual basis.
 
 ### AMP
+
+* [Style guide](https://amp.dev/static/files/brand-material/AMP_Mini_Styleguide.pdf)
+* [Project artwork](https://amp.dev/static/files/brand-material/AMP_Logo_Rebrush.zip)
 
 <table>
     <tr>
@@ -494,6 +499,8 @@ In order to support their active development, projects in the Growth stage have 
 </table>
 
 ### Fastify
+
+* [Project artwork repo](https://github.com/fastify/graphics)
 
 <table>
     <tr>
