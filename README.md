@@ -493,6 +493,46 @@ In order to support their active development, projects in the Growth stage have 
     </tr>  
 </table>
 
+### Fastify
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-white-dark_background.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-white-dark_background.png"></td>
+        <td><img src="./projects/fastify/fastify-icon-white-dark_background.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-white-dark_background.svg"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-white-dark_background.svg"></td>
+        <td><img src="./projects/fastify/fastify-icon-white-dark_background.svg"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-black.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-black.png"></td>
+        <td><img src="./projects/fastify/fastify-icon-black.png"></td>
+        <td><img src="./projects/fastify/fastify-logo-horizontal-black.svg"></td>
+        <td><img src="./projects/fastify/fastify-logo-stacked-black.svg"></td>
+        <td><img src="./projects/fastify/fastify-icon-black.svg"></td>    </tr>
+
+</table>
+
 ### Intern
 
 <table>
@@ -1209,8 +1249,6 @@ Projects may apply to be accepted into the OpenJS Foundation by following the [P
         <td>&nbsp;</td>
     </tr>
 </table>
-
-
 
 ## Emeritus Projects
 
