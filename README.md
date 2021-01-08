@@ -413,6 +413,55 @@ Growth projects have indicated they are interested in becoming Impact projects, 
 
 In order to support their active development, projects in the Growth stage have access to a higher level marketing and other resources, which are agreed upon and reviewed by the CPC on an annual basis.
 
+### AMP
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+        <th width="200">horizontal</th>
+        <th width="95">stacked</th>
+        <th width="75">icon</th>
+    </tr>
+    <tr>
+        <th>blue</th>
+        <td><img src="./projects/amp/amp-logo-blue.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-blue.png"></td>
+        <td><img src="./projects/amp/amp-logo-blue.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-blue.svg"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./projects/amp/amp-logo-black.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-black.png"></td>
+        <td><img src="./projects/amp/amp-logo-black.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-black.svg"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./projects/amp/amp-logo-white-dark_background.png"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-white-dark_background.png"></td>
+        <td><img src="./projects/amp/amp-logo-white-dark_background.svg"></td>
+        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-icon-white-dark_background.svg"></td>
+    </tr>
+</table>
+
 ### Architect
 
 <table>
