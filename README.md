@@ -439,31 +439,31 @@ In order to support their active development, projects in the Growth stage have 
         <th width="75">icon</th>
     </tr>
     <tr>
-        <th>blue</th>
-        <td><img src="./projects/amp/amp-logo-blue.png"></td>
-        <td>&nbsp;</td>
-        <td><img src="./projects/amp/amp-icon-blue.png"></td>
-        <td><img src="./projects/amp/amp-logo-blue.svg"></td>
-        <td>&nbsp;</td>
-        <td><img src="./projects/amp/amp-icon-blue.svg"></td>
+        <th>color</th>
+        <td><img src="./projects/amp/amp-logo-horizontal-color.png"></td>
+        <td><img src="./projects/amp/amp-logo-stacked-color.png"></td>
+        <td><img src="./projects/amp/amp-icon-color.png"></td>
+        <td><img src="./projects/amp/amp-logo-horizontal-color.svg"></td>
+        <td><img src="./projects/amp/amp-logo-stacked-color.png"></td>
+        <td><img src="./projects/amp/amp-icon-color.svg"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="./projects/amp/amp-logo-black.png"></td>
-        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-logo-horizontal-black.png"></td>
+        <td><img src="./projects/amp/amp-logo-stacked-black.png"></td>
         <td><img src="./projects/amp/amp-icon-black.png"></td>
-        <td><img src="./projects/amp/amp-logo-black.svg"></td>
-        <td>&nbsp;</td>
+        <td><img src="./projects/amp/amp-logo-horizontal-black.svg"></td>
+        <td><img src="./projects/amp/amp-logo-stacked-black.png"></td>
         <td><img src="./projects/amp/amp-icon-black.svg"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="./projects/amp/amp-logo-white-dark_background.png"></td>
-        <td>&nbsp;</td>
-        <td><img src="./projects/amp/amp-icon-white-dark_background.png"></td>
-        <td><img src="./projects/amp/amp-logo-white-dark_background.svg"></td>
-        <td>&nbsp;</td>
-        <td><img src="./projects/amp/amp-icon-white-dark_background.svg"></td>
+        <td><img src="./projects/amp/amp-logo-horizontal-white.png"></td>
+        <td><img src="./projects/amp/amp-logo-stacked-white.png"></td>
+        <td><img src="./projects/amp/amp-icon-white.png"></td>
+        <td><img src="./projects/amp/amp-logo-horizontal-white.svg"></td>
+        <td><img src="./projects/amp/amp-logo-stacked-white.svg"></td>
+        <td><img src="./projects/amp/amp-icon-white.svg"></td>
     </tr>
 </table>
 
