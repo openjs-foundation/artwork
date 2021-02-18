@@ -1206,7 +1206,7 @@ In order to support their active development, projects in the Growth stage have 
 
 ## Incubating Projects
 
-Projects may apply to be accepted into the OpenJS Foundation by following the [Project Proposal Process](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#ii-project-proposal-process). The following projects have been accepted for incubation by the [Cross Project Council](https://github.com/openjs-foundation/cross-project-council).
+Projects may apply to be accepted into the OpenJS Foundation by following the [Project Proposal Process](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#ii-project-proposal-process). The following projects have been accepted for incubation by the [Cross Project Council](https://github.com/openjs-foundation/cross-project-council).
 
 ### Ajv
 
