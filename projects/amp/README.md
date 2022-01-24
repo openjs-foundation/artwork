@@ -23,31 +23,29 @@
     </tr>
     <tr>
         <th>blue</th>
-        <td><img src="./amp-logo-blue.png"></td>
-        <td>&nbsp;</td>
-        <td><img src="./amp-icon-blue.png"></td>
-        <td><img src="./amp-logo-blue.svg"></td>
-        <td>&nbsp;</td>
-        <td><img src="./amp-icon-blue.svg"></td>
+        <td><img src="./amp-logo-horizontal-color.png"></td>
+        <td><img src="./amp-logo-stacked-color.png"></td>
+        <td><img src="./amp-icon-color.png"></td>
+        <td><img src="./amp-logo-horizontal-color.svg"></td>
+        <td><img src="./amp-logo-stacked-color.svg"></td>
+        <td><img src="./amp-icon-color.svg"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="./amp-logo-black.png"></td>
-        <td>&nbsp;</td>
+        <td><img src="./amp-logo-horizontal-black.png"></td>
+        <td><img src="./amp-logo-stacked-black.png"></td>
         <td><img src="./amp-icon-black.png"></td>
-        <td><img src="./amp-logo-black.svg"></td>
-        <td>&nbsp;</td>
-        <td><img src="./amp-icon-black.svg"></td>
-    </tr>
+        <td><img src="./amp-logo-horizontal-black.svg"></td>
+        <td><img src="./amp-logo-stacked-black.svg"></td>
+        <td><img src="./amp-icon-black.svg"></td>    </tr>
     <tr>
         <th>white</th>
-        <td><img src="./amp-logo-white-dark_background.png"></td>
-        <td>&nbsp;</td>
-        <td><img src="./amp-icon-white-dark_background.png"></td>
-        <td><img src="./amp-logo-white-dark_background.svg"></td>
-        <td>&nbsp;</td>
-        <td><img src="./amp-icon-white-dark_background.svg"></td>
-    </tr>
+        <td><img src="./amp-logo-horizontal-white.png"></td>
+        <td><img src="./amp-logo-stacked-white.png"></td>
+        <td><img src="./amp-icon-white.png"></td>
+        <td><img src="./amp-logo-horizontal-white.svg"></td>
+        <td><img src="./amp-logo-stacked-white.svg"></td>
+        <td><img src="./amp-icon-white.svg"></td>    </tr>
 </table>
 
 ---
