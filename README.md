@@ -45,7 +45,6 @@ If you have a question about this policy or how to implement it, please reach ou
 * [jQuery](./projects/jquery)
 * [jQuery Mobile](./projects/jquery_mobile)
 * [jQuery UI](./projects/jquery_ui)
-* [libuv](./projects/libuv)
 * [Lodash](./projects/lodash)
 * [Loopback](./projects/loopback)
 * [Marko](./projects/marko)
