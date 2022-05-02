@@ -19,15 +19,6 @@
         <th>icon</th>
     </tr>
     <tr>
-        <th>color, dark background</th>
-        <td><img src="./electron-logo-wide-color-dark_bg.png" width="200"></td>
-        <td><img src="./electron-logo-color-dark_bg.png" width="95"></td>
-        <td><img src="./electron-icon-color-dark_bg.png" width="75"></td>
-        <td><img src="./electron-logo-wide-color-dark_bg.svg" width="200"></td>
-        <td><img src="./electron-logo-color-dark_bg.svg" width="95"></td>
-        <td><img src="./electron-icon-color-dark_bg.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>color</th>
         <td><img src="./electron-logo-wide-color.png" width="200"></td>
         <td><img src="./electron-logo-color.png" width="95"></td>
@@ -37,15 +28,6 @@
         <td><img src="./electron-icon-color.svg" width="75"></td>
     </tr>  
     <tr>
-        <th>grayscale, dark background</th>
-        <td><img src="./electron-logo-wide-white.png" width="200"></td>
-        <td><img src="./electron-logo-white.png" width="95"></td>
-        <td><img src="./electron-icon-white.png" width="75"></td>
-        <td><img src="./electron-logo-wide-white.svg" width="200"></td>
-        <td><img src="./electron-logo-white.svg" width="95"></td>
-        <td><img src="./electron-icon-white.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>grayscale, light background</th>
         <td><img src="./electron-logo-wide-black.png" width="200"></td>
         <td><img src="./electron-logo-black.png" width="95"></td>
@@ -54,6 +36,16 @@
         <td><img src="./electron-logo-black.svg" width="95"></td>
         <td><img src="./electron-icon-black.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>grayscale, dark background</th>
+        <td><img src="./electron-logo-wide-white.png" width="200"></td>
+        <td><img src="./electron-logo-white.png" width="95"></td>
+        <td><img src="./electron-icon-white.png" width="75"></td>
+        <td><img src="./electron-logo-wide-white.svg" width="200"></td>
+        <td><img src="./electron-logo-white.svg" width="95"></td>
+        <td><img src="./electron-icon-white.svg" width="75"></td>
+    </tr>
+
 </table>
 
 ---
