@@ -19,11 +19,29 @@
         <th width="75">icon</th>
     </tr>
     <tr>
+        <th>color</th>
+        <td><img src="./nvm-logo-color.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./nvm-logo-color.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./nvm-logo-black.png"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><img src="./nvm-logo-black.svg"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
         <th>white</th>
-        <td><img src="./nvm-logo-white-dark_background.png"></td>
+        <td><img src="./nvm-logo-white.png"></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td><img src="./nvm-logo-white-dark_background.svg"></td>
+        <td><img src="./nvm-logo-white.svg"></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
