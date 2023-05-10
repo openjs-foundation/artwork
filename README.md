@@ -1,4 +1,11 @@
-# OpenJS Foundation Artwork and Logos
+<a href="https://openjsf.org">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg"/>
+     <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200" alt="OpenJS Foundation logo" />
+   </picture>
+</a>
+
+# Artwork and Logos
 
 _Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables._
 
