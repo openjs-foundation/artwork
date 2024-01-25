@@ -65,6 +65,24 @@
         <td><img src="./appium-logo-stacked-grayscale-dark_background.svg" width="95"></td>
         <td><img src="./appium-icon-grayscale-dark_background.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>monochrome</th>
+        <td><img src="./appium-logo-horizontal-mono.png" width="200"></td>
+        <td><img src="./appium-logo-stacked-mono.png" width="95"></td>
+        <td><img src="./appium-icon-mono.png" width="75"></td>
+        <td><img src="./appium-logo-horizontal-mono.svg" width="200"></td>
+        <td><img src="./appium-logo-stacked-mono.svg" width="95"></td>
+        <td><img src="./appium-icon-mono.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>monochrome, dark background</th>
+        <td><img src="./appium-logo-horizontal-mono-dark_background.png" width="200"></td>
+        <td><img src="./appium-logo-stacked-mono-dark_background.png" width="95"></td>
+        <td><img src="./appium-icon-mono-dark_background.png" width="75"></td>
+        <td><img src="./appium-logo-horizontal-mono-dark_background.svg" width="200"></td>
+        <td><img src="./appium-logo-stacked-mono-dark_background.svg" width="95"></td>
+        <td><img src="./appium-icon-mono-dark_background.svg" width="75"></td>
+    </tr>
 </table>
 
 
