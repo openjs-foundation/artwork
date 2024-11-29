@@ -1,6 +1,7 @@
 # Node.js Artwork
 
 - [Pantone color versions](./other/nodejs-pantone.zip)
+- [node.js branding page](https://nodejs.org/en/branding/)
 
 <table>
     <tr>
