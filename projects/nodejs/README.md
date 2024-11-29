@@ -45,8 +45,8 @@
          <td><img src="../no_artwork_available.png" width="95"></td>
         <td><img src="../no_artwork_available.png" width="75"></td>
         <td><img src="./nodejs-logo-grayscale-dark_background.svg" width="200"></td>
-           <td><img src="./nodejs-logo-stacked-withe.svg" width="95"></td>
-        <td><img src="./nodejs-icon-withe.svg" width="75"></td>
+           <td><img src="./nodejs-logo-stacked-white.svg" width="95"></td>
+        <td><img src="./nodejs-icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>grayscale, light background</th>
