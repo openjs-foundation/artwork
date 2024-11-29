@@ -57,8 +57,7 @@
             <img src="../no_artwork_available.png" width="75">
         </td>
         <td>
-        </td>
-            <img src="./nodejs-icon-black.svg" width="75">
+            <img src="../no_artwork_available.png" width="75">
         </td>
         <td>
             <img src="./nodejs-logo-black.svg" width="75">
