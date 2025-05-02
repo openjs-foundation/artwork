@@ -23,30 +23,30 @@
     </tr>
     <tr>
         <th>color, dark background</th>
-        <td><img src="./nativescript-logo-color-dark_background.png"></td>
+        <td><img src="./logo/PNG/nativescriptTM-logo-color-dark_background.png"></td>
         <td>&nbsp;</td>
-        <td><img src="./nativescript-icon-color-dark_background.png"></td>
-        <td><img src="./nativescript-logo-color-dark_background.svg"></td>
+        <td><img src="./icon/PNG/nativescriptTM-icon-color-dark_background.png"></td>
+        <td><img src="./logo/SVG/nativescriptTM-logo-color-dark_background.svg"></td>
         <td>&nbsp;</td>
-        <td><img src="./nativescript-icon-color-dark_background.svg"></td>
+        <td><img src="./icon/SVG/nativescriptTM-icon-color-dark_background.svg"></td>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="./nativescript-logo-color.png"></td>
+        <td><img src="./logo/PNG/nativescriptTM-logo-color.png"></td>
         <td>&nbsp;</td>
-        <td><img src="./nativescript-icon-color.png"></td>
-        <td><img src="./nativescript-logo-color.svg"></td>
+        <td><img src="./icon/PNG/nativescriptTM-icon-color.png"></td>
+        <td><img src="./logo/SVG/nativescriptTM-logo-color.svg"></td>
         <td>&nbsp;</td>
-        <td><img src="./nativescript-icon-color.svg"></td>
+        <td><img src="./icon/SVG/nativescriptTM-icon-color.svg"></td>
     </tr>
     <tr>
         <th>white, dark background</th>
-        <td><img src="./nativescript-logo-white-dark_background.png"></td>
+        <td><img src="./logo/PNG/nativescriptTM-logo-white-dark_background.png"></td>
         <td>&nbsp;</td>
-        <td><img src="./nativescript-icon-white-dark_background.png"></td>
-        <td><img src="./nativescript-logo-white-dark_background.svg"></td>
+        <td><img src="./icon/PNG/nativescriptTM-icon-white-dark_background.png"></td>
+        <td><img src="./logo/SVG/nativescriptTM-logo-white-dark_background.svg"></td>
         <td>&nbsp;</td>
-        <td><img src="./nativescript-icon-white-dark_background.svg"></td>
+        <td><img src="./icon/SVG/nativescriptTM-icon-white-dark_background.svg"></td>
     </tr>
 </table>
 
