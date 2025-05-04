@@ -1,6 +1,7 @@
 # Node.js Artwork
 
 - [Pantone color versions](./other/nodejs-pantone.zip)
+- [node.js branding page](https://nodejs.org/en/branding/)
 
 <table>
     <tr>
@@ -26,7 +27,7 @@
         <td><img src="../no_artwork_available.png" width="95"></td>
         <td><img src="./nodejs-icon-color.png" width="75"></td>
         <td><img src="./nodejs-logo-color-dark_background.svg" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
+        <td><img src="./nodejs-logo-stacked-light.svg" width="95"></td>
         <td><img src="./nodejs-icon-color.svg" width="75"></td>
     </tr>
     <tr>
@@ -35,7 +36,7 @@
         <td><img src="../no_artwork_available.png" width="95"></td>
         <td><img src="./nodejs-icon-color.png" width="75"></td>
         <td><img src="./nodejs-logo-color.svg" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
+        <td><img src="./nodejs-logo-stacked-dark.svg" width="95"></td>
         <td><img src="./nodejs-icon-color.svg" width="75"></td>
     </tr>  
     <tr>
@@ -44,10 +45,37 @@
          <td><img src="../no_artwork_available.png" width="95"></td>
         <td><img src="../no_artwork_available.png" width="75"></td>
         <td><img src="./nodejs-logo-grayscale-dark_background.svg" width="200"></td>
-           <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
+           <td><img src="./nodejs-logo-stacked-white.svg" width="95"></td>
+        <td><img src="./nodejs-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>grayscale, light background</th>
+        <td>
+            <img src="../no_artwork_available.png" width="75">
+        </td>
+        <td>
+            <img src="../no_artwork_available.png" width="75">
+        </td>
+        <td>
+            <img src="../no_artwork_available.png" width="75">
+        </td>
+        <td>
+            <img src="./nodejs-logo-black.svg" width="75">
+        </td>
+        <td>
+            <img src="./nodejs-logo-stacked-black.svg" width="200">
+        </td>
+        <td>
+            <img src="./nodejs-icon-black.svg" width="75">
+        </td>
     </tr>
 </table>
+
+---
+
+Nodejs's Mascot, Turtle.
+
+<img src="./node-mascot.svg" width="200" alt="Node.js Turtle">
 
 ---
 
