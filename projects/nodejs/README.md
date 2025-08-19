@@ -1,7 +1,7 @@
 # Node.js Artwork
 
 - [Pantone color versions](./other/nodejs-pantone.zip)
-- [node.js branding page](https://nodejs.org/en/branding/)
+- [Node.js branding page](https://nodejs.org/en/branding/)
 
 <table>
     <tr>
@@ -73,7 +73,7 @@
 
 ---
 
-Nodejs's Mascot, Turtle.
+Node.js's Mascot, Rocket Turtle.
 
 <img src="./node-mascot.svg" width="200" alt="Node.js Turtle">
 
