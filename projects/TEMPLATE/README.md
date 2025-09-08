@@ -21,21 +21,21 @@
     </tr>
     <tr>
         <th>color, dark background</th>
-        <td><img src="../no_artwork_available.png" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
-        <td><img src="../no_artwork_available.png" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
+        <td><img src="./no_artwork_available.png" width="200"></td>
+        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./no_artwork_available.png" width="75"></td>
+        <td><img src="./no_artwork_available.svg" width="200"></td>
+        <td><img src="./no_artwork_available.svg" width="95"></td>
+        <td><img src="./no_artwork_available.svg" width="75"></td>
     </tr>  
     <tr>
         <th>color</th>
-        <td><img src="../no_artwork_available.png" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
-        <td><img src="../no_artwork_available.png" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
+        <td><img src="./no_artwork_available.png" width="200"></td>
+        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./no_artwork_available.png" width="75"></td>
+        <td><img src="./no_artwork_available.svg" width="200"></td>
+        <td><img src="./no_artwork_available.svg" width="95"></td>
+        <td><img src="./no_artwork_available.svg" width="75"></td>
     </tr>  
 </table>
 

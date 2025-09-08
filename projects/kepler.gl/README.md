@@ -1,4 +1,4 @@
-# Cosmos.gl Artwork
+# Kepler.gl Artwork
 
 
 <table>
@@ -21,21 +21,21 @@
     </tr>
     <tr>
         <th>color, dark background</th>
-        <td><img src="./cosmos-logo-color-dark_background.png" width="200"></td>
+        <td><img src="./kepler-logo-color.png" width="200"></td>
         <td><img src="./no_artwork_available.png" width="95"></td>
-        <td><img src="./cosmos-icon-color-dark_background.png" width="75"></td>
-        <td><img src="./cosmos-logo-color-dark_background.svg" width="200"></td>
+        <td><img src="./kepler-icon-color.png" width="75"></td>
+        <td><img src="./kepler-logo-color.svg" width="200"></td>
         <td><img src="./no_artwork_available.svg" width="95"></td>
-        <td><img src="./cosmos-icon-color-dark_background.svg" width="75"></td>
+        <td><img src="./kepler-icon-color.svg" width="75"></td>
     </tr>  
     <tr>
         <th>color</th>
-        <td><img src="./cosmos-logo-color.png" width="200"></td>
+        <td><img src="./kepler-logo-color.png" width="200"></td>
         <td><img src="./no_artwork_available.png" width="95"></td>
-        <td><img src="./cosmos-icon-color.png" width="75"></td>
-        <td><img src="./cosmos-logo-color.svg" width="200"></td>
+        <td><img src="./kepler-icon-color.png" width="75"></td>
+        <td><img src="./kepler-logo-color.svg" width="200"></td>
         <td><img src="./no_artwork_available.svg" width="95"></td>
-        <td><img src="./cosmos-icon-color.svg" width="75"></td>
+        <td><img src="./kepler-icon-color.svg" width="75"></td>
     </tr>  
 </table>
 
