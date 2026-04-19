@@ -25,7 +25,16 @@
         <td><img src="./express-icon-black.png" width="75"></td>
         <td><img src="./express-logo-horizontal-black.svg" width="200"></td>
         <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="./express-icon-black.svg" width="75"></td>    </tr>
+        <td><img src="./express-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./express-logo-horizontal-white.png" width="200"></td>
+        <td><img src="../no_artwork_available.png" width="95"></td>
+        <td><img src="./express-icon-white.png" width="75"></td>
+        <td><img src="./express-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="../no_artwork_available.png" width="95"></td>
+        <td><img src="./express-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
